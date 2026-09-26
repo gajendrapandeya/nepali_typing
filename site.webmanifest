@@ -1,0 +1,18 @@
+{
+  "name": "टाइपशाला — Nepali Typing",
+  "short_name": "टाइपशाला",
+  "description": "Learn and practice Nepali touch typing with lessons, speed tests, quizzes and games.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ECF0F1",
+  "theme_color": "#C8102E",
+  "lang": "ne-NP",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
